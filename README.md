@@ -125,7 +125,7 @@ With these functionalities, the AI assistant can summarize key points within an 
     <tr>
         <td><img src="docs/AICraft/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="docs/AICraft/README.md">AICraft</a></td>
-        <td>AICraft is an open-source desktop AI Agent launcher that manages LLM capabilities — Skills, MCP, RAG, and Memory — through a visual interface, just like a Minecraft mod manager for AI.</td>
+        <td>AICraft is an open-source desktop AI Agent launcher that makes AI capability management as simple as Minecraft mod management — a visual interface for LLM Skills, MCP, RAG, and Memory modules.</td>
     </tr>
     <tr>
         <td><img src="https://github.com/ThinkInAIXYZ/deepchat/blob/main/build/icon.png?raw=true" alt="Icon" width="64" height="auto" style="border-radius: 10px" /></td>
