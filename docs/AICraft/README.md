@@ -3,7 +3,7 @@
 </h1>
 
 <p>
-  <em>An open-source desktop AI Agent launcher that manages LLM capabilities through a visual interface — like a Minecraft mod manager for AI.</em>
+  <em>An open-source desktop AI Agent launcher that manages LLM capabilities through a visual interface — as simple as adding mods in Minecraft.</em>
 </p>
 
 ---
